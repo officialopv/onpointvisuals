@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c4bf185.css",
+    "main.js": "/static/js/main.e4df67d7.js",
+    "static/js/787.ffc6799b.chunk.js": "/static/js/787.ffc6799b.chunk.js",
+    "static/media/wedding.gif": "/static/media/wedding.9b89855b598922d90100.gif",
+    "static/media/ots.gif": "/static/media/ots.800b8c653c0e714ba3fb.gif",
+    "static/media/reels.gif": "/static/media/reels.1148ba4dbec407a8a0ff.gif",
+    "static/media/musicVideos.gif": "/static/media/musicVideos.8c9c3600ab1485c99563.gif",
+    "static/media/nobars.gif": "/static/media/nobars.565a826484debefb2850.gif",
+    "static/media/miami-night.jpg": "/static/media/miami-night.b35d920bf0cefd47027c.jpg",
+    "static/media/content.png": "/static/media/content.b45d84e73b37072577ce.png",
+    "static/media/opv official logo .png": "/static/media/opv official logo .c18d3a33dc6dc1edccd3.png",
+    "static/media/opv logo white png.png": "/static/media/opv logo white png.3dc1fedd62dff08d7c29.png",
+    "index.html": "/index.html",
+    "main.5c4bf185.css.map": "/static/css/main.5c4bf185.css.map",
+    "main.e4df67d7.js.map": "/static/js/main.e4df67d7.js.map",
+    "787.ffc6799b.chunk.js.map": "/static/js/787.ffc6799b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c4bf185.css",
+    "static/js/main.e4df67d7.js"
+  ]
+}
