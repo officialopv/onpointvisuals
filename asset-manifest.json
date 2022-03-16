@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5c4bf185.css",
-    "main.js": "/static/js/main.faad4cd8.js",
+    "main.js": "/static/js/main.ad192de0.js",
     "static/js/787.ffc6799b.chunk.js": "/static/js/787.ffc6799b.chunk.js",
     "static/media/wedding.gif": "/static/media/wedding.9b89855b598922d90100.gif",
     "static/media/ots.gif": "/static/media/ots.800b8c653c0e714ba3fb.gif",
@@ -14,11 +14,11 @@
     "static/media/opv logo white png.png": "/static/media/opv logo white png.3dc1fedd62dff08d7c29.png",
     "index.html": "/index.html",
     "main.5c4bf185.css.map": "/static/css/main.5c4bf185.css.map",
-    "main.faad4cd8.js.map": "/static/js/main.faad4cd8.js.map",
+    "main.ad192de0.js.map": "/static/js/main.ad192de0.js.map",
     "787.ffc6799b.chunk.js.map": "/static/js/787.ffc6799b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c4bf185.css",
-    "static/js/main.faad4cd8.js"
+    "static/js/main.ad192de0.js"
   ]
 }
