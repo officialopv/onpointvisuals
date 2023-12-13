@@ -21,32 +21,32 @@ function App() {
   [
     {
       name: "On The Street Series",
-      background: ots,
+      // background: ots,
       desc: "",
     },
     {
       name: "Music Videos",
-      background: musicVideo,
+      // background: musicVideo,
       desc: "",
     },
     {
       name: "Content Manager",
-      background: content,
+      // background: content,
       desc: "",
     },
     {
       name: "Reels",
-      background: reels,
+      // background: reels,
       desc: "",
     },
     {
       name: "Weddings",
-      background: wedding,
+      // background: wedding,
       desc: "",
     },
     {
       name: "Photos/Logos Editing",
-      background: miami,
+      // background: miami,
       desc: "",
     },
   ]
